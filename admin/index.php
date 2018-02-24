@@ -40,6 +40,9 @@
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
                 <div class="login-panel panel panel-default">
+                    <div>
+                        <img src="../assets/back_end/images/admin_img.jpg">
+                    </div>
                     <div class="panel-heading">
                         <h3 class="panel-title text-center">Please Sign In</h3>
                         <h3 class="text-center text-danger"><?php echo $message; ?></h3>
